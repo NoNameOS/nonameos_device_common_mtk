@@ -1,0 +1,1 @@
+# nonameos_device_common_mtk
